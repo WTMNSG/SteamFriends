@@ -16,6 +16,7 @@
 
 | Avatar                                                                            | Name          | steamid                                                                     | is_friend   | BFD                 | Remark   | removed_time        |
 |:----------------------------------------------------------------------------------|:--------------|:----------------------------------------------------------------------------|:------------|:--------------------|:---------|:--------------------|
+| ![](https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg) | 落日映山河         | [76561198994102793](https://steamcommunity.com/profiles/76561198994102793/) | ❌           | 2024-12-19 07:08:51 |          | 2024-12-26 10:42:51 |
 | ![](https://avatars.steamstatic.com/d41abd4be0b3769e1919802da758591a11639b13.jpg) | Felix_SYS     | [76561199384218136](https://steamcommunity.com/profiles/76561199384218136/) | ❌           | 2022-08-14 01:06:38 |          | 2024-11-25 20:25:51 |
 | ![](https://avatars.steamstatic.com/ef15d4fa577672454e11c4dc5fbfa9fc71722ede.jpg) | ROOT          | [76561199211756935](https://steamcommunity.com/profiles/76561199211756935/) | ❌           | 2021-10-02 11:23:03 |          | 2024-11-25 20:25:51 |
 | ![](https://avatars.steamstatic.com/eaf9208f515b2ddb490f1f02d1e993c6e50d14eb.jpg) | 綺北幼儿园         | [76561199515940735](https://steamcommunity.com/profiles/76561199515940735/) | ✅           | 2023-10-18 13:28:40 |          |                     |
@@ -30,4 +31,3 @@
 | ![](https://avatars.steamstatic.com/0e96fd1da4c91017a7c1de980d6361b139e6831d.jpg) | 冰绒雨洛          | [76561199543716783](https://steamcommunity.com/profiles/76561199543716783/) | ✅           | 2023-09-08 13:32:47 |          |                     |
 | ![](https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg) | smf3gpm       | [76561199158604114](https://steamcommunity.com/profiles/76561199158604114/) | ✅           | 2023-09-08 13:48:05 |          |                     |
 | ![](https://avatars.steamstatic.com/b5504f98f68305127514d2dbbb3145b1de9f26af.jpg) | 哈哈哈哈哈         | [76561199723045843](https://steamcommunity.com/profiles/76561199723045843/) | ✅           | 2024-12-11 07:07:06 |          |                     |
-| ![](https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg) | 落日映山河         | [76561198994102793](https://steamcommunity.com/profiles/76561198994102793/) | ✅           | 2024-12-19 07:08:51 |          |                     |
